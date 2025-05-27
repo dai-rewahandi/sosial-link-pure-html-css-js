@@ -1,5 +1,5 @@
 demo https://dai-rewahandi.github.io/sosial-link-pure-html-css-js/
 
 ![image](./doc/SCR-20250527-mryz.jpeg)
-![terminal](./code/link-list/doc/SCR-20250527-mscb.png)
+![terminal](./doc/SCR-20250527-mscb.png)
 
